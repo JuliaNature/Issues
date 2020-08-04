@@ -1,5 +1,7 @@
-# Algorithm to be Implemented
-In this repository you can find a list of algorithms to be implemented.
+# 
+In this repository you can find a list of algorithms to be implemented. 
+<br>
+For Discussion for Roadmap of the project & orgnaization please go to the issues tab.
 <br>
 data source: https://www.sciencedirect.com/science/article/pii/S2352340920306867
 
